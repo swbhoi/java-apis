@@ -18,7 +18,7 @@ import com.sun.jersey.multipart.FormDataParam;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.SecurityContext;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2016-06-23T04:51:31.998-04:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2016-06-24T02:22:13.007-04:00")
 public abstract class AccountApiService {
   
       public abstract Response accountAccountNumberGet(SecurityContext securityContext)
