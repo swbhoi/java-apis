@@ -27,7 +27,7 @@ import javax.ws.rs.*;
 
 
 @io.swagger.annotations.Api(description = "the account API")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2016-06-24T02:22:13.007-04:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2016-06-29T01:01:05.142-04:00")
 public class AccountApi  {
    private final AccountApiService delegate = AccountApiServiceFactory.getAccountApi();
 
