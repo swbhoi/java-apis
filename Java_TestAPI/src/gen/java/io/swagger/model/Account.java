@@ -16,7 +16,7 @@ import java.util.*;
  **/
 
 @ApiModel(description = "Account Details")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2017-04-06T06:49:43.353-04:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JaxRSServerCodegen", date = "2017-04-17T09:32:07.248-04:00")
 public class Account   {
   
   private String id = null;
